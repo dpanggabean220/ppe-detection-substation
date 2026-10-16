@@ -1,4 +1,3 @@
-# ppe-detection-substation
 # 🦺 PPE Detection for Substation Safety
 
 Real-time Personal Protective Equipment (PPE) detection for a 275 kV extra-high-voltage substation, built by a substation operator to solve a real safety problem on site.
@@ -98,7 +97,7 @@ CCTV (RTSP) ──► kamera.py (one process per camera)
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/<username>/ppe-detection-substation.git
+git clone https://github.com/dpanggabean220-bot/ppe-detection-substation.git
 cd ppe-detection-substation
 pip install -r requirements.txt
 cp .env.example .env    # fill in your own camera URL and Telegram token
@@ -123,4 +122,4 @@ Python · YOLOv8 (Ultralytics) · OpenCV · Roboflow · Streamlit · SQLite · T
 
 **David Panggabean**: substation operator at a 275 kV EHV substation, building AI tools for power-system operations.
 
-[LinkedIn](https://linkedin.com/in/<your-profile>) · [GitHub](https://github.com/<username>)
+[LinkedIn](https://linkedin.com/in/<your-profile>) · [GitHub](https://github.com/dpanggabean220-bot)
